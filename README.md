@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project aims to compute the ground state energy of the Helium-4 atom  using the Variational Monte Carlo method.  
-We test several trial wave functions, analyze and plot the results and a visualization of the configuration space sampling is performed for the best parameters.
+We test several trial wave functions, analyze and plot the results, and a visualization of the configuration space sampling is performed for the best parameters.
 
 ---
 

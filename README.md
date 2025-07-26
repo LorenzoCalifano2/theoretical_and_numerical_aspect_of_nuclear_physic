@@ -19,7 +19,7 @@ Performs a scan over different trial wave function parameters and calculates the
 - **`plot_energy.py`**  
   Reads the results in `result.txt` and produces 3D plots to visualize the energy landscape, highlight the minimum energy point.
 
-- **`best_wave.py`**  
+- **`ground_state_wave.py`**  
   Runs a VMC simulation using the "best" trial wave function found previously.  
   Plots the sampled space configuration of the system to check the consistency and quality of the algorithm.
 
